@@ -38,11 +38,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-<<<<<<< HEAD
 							<mainClass>core.Selenium</mainClass>
-=======
-							<mainClass>core.App</mainClass>
->>>>>>> 1e4513c1573220430f71bc0c0e55b71635de31f9
 						</manifest>
 					</archive>
 					<descriptorRefs>
